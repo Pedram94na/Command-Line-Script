@@ -1,0 +1,6 @@
+﻿Max,barman,nightguard
+Manuel,Chef,cook,barman
+Peter,Developer,Designer
+Maria,Dancer,Actor,Singer
+Kiara,cook,Barman
+Carlos,singer,swimmer
